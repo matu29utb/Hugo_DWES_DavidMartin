@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/capitales/index.html</loc>
+    <lastmod>2024-12-10T23:57:56+01:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/peliculas/index.html</loc>
+    <lastmod>2024-12-10T23:57:48+01:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/json/index.html</loc>
+    <lastmod>2024-12-10T19:15:47+01:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/shortcodes/index.html</loc>
+    <lastmod>2024-12-10T19:15:22+01:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/programacion/index.html</loc>
+    <lastmod>2024-12-10T19:15:03+01:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/hobbis/index.html</loc>
+    <lastmod>2024-12-10T19:14:45+01:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/markdown/index.html</loc>
+    <lastmod>2024-12-10T19:14:13+01:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/index.html</loc>
+    <lastmod>2024-12-10T14:15:55+01:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/categories/index.html</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/index.html</loc>
+  </url>
+</urlset>

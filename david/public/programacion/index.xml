@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programacion :: Presentándome a la comunidad</title>
+    <link>http://localhost:1313/programacion/index.html</link>
+    <description>Mi Experiencia con Python Python es uno de mis lenguajes de programación favoritos. Me encanta por su simplicidad y legibilidad, lo que lo hace perfecto tanto para principiantes como para desarrolladores experimentados. Su comunidad es enorme, y las bibliotecas disponibles permiten hacer prácticamente cualquier cosa, desde análisis de datos hasta inteligencia artificial.&#xA;Aquí pongo un ejemplo sencillo que muestra cómo usar un bucle para contar números del 1 al 10 y determinar si son pares o impares:</description>
+    <generator>Hugo</generator>
+    <language>es-es</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/programacion/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

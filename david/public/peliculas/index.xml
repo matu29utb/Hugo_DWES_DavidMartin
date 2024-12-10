@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peliculas :: Presentándome a la comunidad</title>
+    <link>http://localhost:1313/peliculas/index.html</link>
+    <description>Mis Películas Favoritas Ratatouille Ratatouille es mi película de animación favorita. La historia de Remy, un ratón que sueña con ser chef, transmite mensajes profundos sobre perseguir nuestros sueños sin importar las barreras. Los detalles en la animación son increíbles, y la película siempre me inspira.&#xA;Shortcodes Personalizados (Frases de la pelicula Ratatouille) Frases de Ratatouille: &#34;Si te centras solo en lo que dejas atrás no podrás ver lo que tienes adelante.&#34; - Gusteau&#xD;&#34;No cualquiera puede convertirse en un gran artista, pero un gran artista puede provenir de cualquier lado.&#34; - Ego&#xD;&#34;No puedo escoger entre dos partes de mí.&#34; - Remy&#xD;La Saga Harry Potter La saga de Harry Potter marcó mi infancia y, para mí, es la mejor saga de películas que existe. Incluso ahora, disfruto mucho volviendo a verla.</description>
+    <generator>Hugo</generator>
+    <language>es-es</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/peliculas/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

@@ -1,0 +1,9 @@
+baseURL = 'https://localhost:1313/'
+languageCode = 'es-es'
+title = 'Presentándome a la comunidad'
+theme = 'relearn'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

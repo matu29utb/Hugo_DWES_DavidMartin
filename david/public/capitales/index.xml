@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Capitales :: Presentándome a la comunidad</title>
+    <link>http://localhost:1313/capitales/index.html</link>
+    <description>Capitales del Mundo que He Visitado Londres La capital del Reino Unido es vibrante y multicultural. ¡Me fascinó!&#xA;Cosas que me encantaron:&#xA;La vista desde el London Eye. El impresionante Big Ben. La rica historia en la Torre de Londres. Mapa de Londres (shortcode) París La ciudad del amor y la luz. París tiene un encanto único que me dejó sin palabras.&#xA;Cosas que más disfruté:</description>
+    <generator>Hugo</generator>
+    <language>es-es</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/capitales/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

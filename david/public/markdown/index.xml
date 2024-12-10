@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markdown :: Presentándome a la comunidad</title>
+    <link>http://localhost:1313/markdown/index.html</link>
+    <description>Guía Básica de Markdown Markdown es un lenguaje de marcado ligero que permite crear contenido formateado de manera sencilla. A continuación, te mostramos los elementos principales con ejemplos.&#xA;Encabezados Los encabezados se crean usando el símbolo #. Entre más #, menor será el nivel del encabezado:&#xA;# Encabezado Nivel 1 ## Encabezado Nivel 2 ### Encabezado Nivel 3 Resultado:&#xA;Encabezado Nivel 1 Encabezado Nivel 2 Encabezado Nivel 3 Tablas Las tablas se crean usando barras verticales | y guiones - para separar encabezados y filas.</description>
+    <generator>Hugo</generator>
+    <language>es-es</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/markdown/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

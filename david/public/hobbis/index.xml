@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hobbis :: Presentándome a la comunidad</title>
+    <link>http://localhost:1313/hobbis/index.html</link>
+    <description>Mis Hobbies Aquí te comparto algunos de mis hobbies favoritos, acompañados de imágenes que los representan.&#xA;Fútbol El fútbol es uno de mis deportes favoritos, tanto para verlo como para jugarlo. Además soy seguidor del FC Barcelona.&#xA;Fórmula 1 El deporte que más me gusta seguir es la Formula 1.&#xA;Running En cuanto a hobbis que me gusta practicar actualmente, podría incluirse deportes como el crossfit o el running</description>
+    <generator>Hugo</generator>
+    <language>es-es</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/hobbis/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
