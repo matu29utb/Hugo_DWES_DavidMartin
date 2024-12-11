@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JSON TV :: Presentándome a la comunidad</title>
+    <link>http://localhost:1313/json-tv/index.html</link>
+    <description>title: “Datos TV” type: “datos-tv” Generalistas&#xD;La 1&#xD;Formato: m3u8 Ver Stream&#xD;Formato: m3u8 Ver Stream&#xD;Formato: m3u8 Ver Stream&#xD;La 2&#xD;Formato: m3u8 Ver Stream&#xD;Formato: m3u8 Ver Stream&#xD;Formato: m3u8 Ver Stream&#xD;Antena 3&#xD;Información Extra:&#xA;W3U&#xD;EMB&#xD;EXTA&#xD;Cuatro&#xD;Información Extra:&#xA;W3U&#xD;EMB&#xD;EXTA&#xD;Telecinco&#xD;Información Extra:&#xA;W3U&#xD;EMB&#xD;EXTA&#xD;laSexta&#xD;Información Extra:&#xA;W3U&#xD;EMB&#xD;EXTA&#xD;Neox&#xD;Información Extra:</description>
+    <generator>Hugo</generator>
+    <language>es-es</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/json-tv/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

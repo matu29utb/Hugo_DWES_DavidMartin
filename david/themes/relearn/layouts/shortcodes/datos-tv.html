@@ -1,0 +1,34 @@
+<div class="tv-channels">
+    {{ $tvData := .Site.Data.tv }}
+  
+    {{ range $tvData }}
+    <div class="category">
+      <h2>{{ .name }}</h2>
+      <div class="channels">
+        {{ range .channels }}
+        <div class="channel">
+          <h3><a href="{{ .web }}" target="_blank">{{ .name }}</a></h3>
+          <img src="{{ .logo }}" alt="{{ .name }} logo" class="channel-logo" />
+          <ul>
+            {{ range .options }}
+            <li>
+              <strong>Formato:</strong> {{ .format }} <br>
+              <a href="{{ .url }}" target="_blank">Ver Stream</a>
+            </li>
+            {{ end }}
+          </ul>
+          {{ if .extra_info }}
+          <p>Información Extra:</p>
+          <ul>
+            {{ range .extra_info }}
+            <li>{{ . }}</li>
+            {{ end }}
+          </ul>
+          {{ end }}
+        </div>
+        {{ end }}
+      </div>
+    </div>
+    {{ end }}
+  </div>
+  
