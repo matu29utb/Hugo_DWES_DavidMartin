@@ -1,4 +1,4 @@
-baseURL = 'https://localhost:1313/'
+baseURL = 'https://matu29utb.github.io/Hugo_DWES_DavidMartin'
 languageCode = 'es-es'
 title = 'Presentándome a la comunidad'
 theme = 'relearn'
@@ -7,3 +7,5 @@ theme = 'relearn'
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+
